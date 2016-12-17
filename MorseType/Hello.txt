@@ -1,0 +1,13 @@
+192:test Admin$ git checkout gomix
+Switched to branch 'gomix'
+192:test Admin$ git push git@github.com:pixman92/testingGmail.git master
+
+
+$ git clone git@github.com:heroku/node-js-getting-started.git # or clone your own fork
+$ cd node-js-getting-started
+$ npm install
+$ npm start
+
+okay
+I’m here
+asdfsd
